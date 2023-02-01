@@ -28,7 +28,7 @@ namespace Bank
         public DataGridView tab = new DataGridView();
         public Form1()
         {
-            Communication test = new();
+            Communication test = new(); 
             user = new QueryTool();
             tab = new DataGridView();
             user.myform = this;
