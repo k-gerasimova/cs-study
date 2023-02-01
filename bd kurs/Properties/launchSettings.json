@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Bank": {
+      "commandName": "Executable",
+      "executablePath":  "D:\\bd kurs\\bin\\Debug\\net6.0-windows\\Bank.exe",
+     
+
+      "sqlDebugging": true,
+
+    }
+  }
+}
