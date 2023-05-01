@@ -1,5 +1,0 @@
-D:\rep\obj\Release\net5.0\Bank.csproj.AssemblyReference.cache
-D:\rep\obj\Release\net5.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
-D:\rep\obj\Release\net5.0\Bank.AssemblyInfoInputs.cache
-D:\rep\obj\Release\net5.0\Bank.AssemblyInfo.cs
-D:\rep\obj\Release\net5.0\Bank.csproj.CoreCompileInputs.cache
